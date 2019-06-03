@@ -396,7 +396,9 @@ a {
   color: #57d131; }
 
 .portfolio-area .filters-content {
-  margin-top: 50px; }
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px; }
 
 .portfolio-area .filters-content .show {
   opacity: 1;
